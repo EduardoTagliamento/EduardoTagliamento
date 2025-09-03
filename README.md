@@ -2,7 +2,7 @@
 
 **`Estagiário de TI`**
 
-Me chamo Eduardo Tagliamento Barbosa, tenho 16 anos e sou natural de São José dos Campos. Atualmente, estou prestando ensino médio no Colégios UNIVAP Unid Centro, com o curso técnico em informática. Sou apaixonado por tecnologia e todas as áreas que ela atua. Me considero uma pessoa que sempre buscar aprender mais e criar projetos cada vez mais ambiciosos.
+Me chamo Eduardo Tagliamento Barbosa, tenho 16 anos e sou natural de São José dos Campos. Atualmente, estou prestando ensino médio no Colégios UNIVAP Unid Centro, com o curso técnico em informática. Sou apaixonado por tecnologia e todas as áreas que ela atua. Me considero uma pessoa que sempre busca aprender mais e criar projetos cada vez mais ambiciosos.
 <p align="left">
     <a href="https://github.com/EduardoTagliamento?tab=repositories&sort=stargazers">
         <img 
@@ -115,7 +115,7 @@ Me chamo Eduardo Tagliamento Barbosa, tenho 16 anos e sou natural de São José 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="300" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoTagliamento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
